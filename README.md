@@ -1,0 +1,1 @@
+# AIDApy-a-script-written-in-Python-3-for-AAindex-property-computing
